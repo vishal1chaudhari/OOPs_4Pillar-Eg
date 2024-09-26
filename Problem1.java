@@ -1,8 +1,8 @@
 package Practice_4Pillars;
-//You are designing a system for a zoo. Create a superclass 'Animal' with properties like 'name' and 'age'.
-// Then create subclasses like 'Lion', 'Elephant', and 'Giraffe'. Each subclass should have additional specific properties and methods.
-// Write a Java program to implement this hierarchy and demonstrate how to create objects of each class.
-
+/*You are designing a system for a zoo. Create a superclass 'Animal' with properties like 'name' and 'age'.
+ Then create subclasses like 'Lion', 'Elephant', and 'Giraffe'. Each subclass should have additional specific properties and methods.
+ Write a Java program to implement this hierarchy and demonstrate how to create objects of each class.
+*/
 class Animal{
     String name;
     int age;
